@@ -1,16 +1,10 @@
-# Airbnb JavaScript Style Guide() {
+# SDJS JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
-
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb-base.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base)
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 Other Style Guides
  - [ES5](es5/)
  - [React](react/)
  - [CSS & Sass](https://github.com/airbnb/css)
- - [Ruby](https://github.com/airbnb/ruby)
 
 ## Table of Contents
 
@@ -2799,7 +2793,7 @@ Other Style Guides
 
 **Books**
 
-  - [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) - Douglas Crockford
+  - [JavaScript Enlightenment](https://www.amazon.com/JavaScript-Enlightenment-Cody-Lindley/dp/1449342884/ref=sr_1_1?ie=UTF8&qid=1467135204&sr=8-1&keywords=javascript+enlightenment) - Cody Lindley
   - [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) - Stoyan Stefanov
   - [Pro JavaScript Design Patterns](http://www.amazon.com/JavaScript-Design-Patterns-Recipes-Problem-Solution/dp/159059908X)  - Ross Harmes and Dustin Diaz
   - [High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309) - Steve Souders
